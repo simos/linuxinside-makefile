@@ -1,0 +1,4 @@
+# Ignored files
+.anjuta/
+.anjuta_sym_db.db
+foobar.anjuta
