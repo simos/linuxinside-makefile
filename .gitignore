@@ -2,3 +2,5 @@
 .anjuta/
 .anjuta_sym_db.db
 foobar.anjuta
+foobar
+foobar.o
